@@ -31,12 +31,12 @@ organizations:
     url: https://joint-research-centre.ec.europa.eu/index_en
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
+    - course: PhD in Energy Systems
+      institution: University of Málaga
+      year: 2018
+    - course: MEng inin Energy Conversion Systems and Technologies
+      institution: Universitat Rovira i Virgili
+      year: 2010
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
