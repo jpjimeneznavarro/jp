@@ -19,7 +19,7 @@ content:
   appointment_url: https://calendly.com
   directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   address:
-    street: to be determined
+    street: tbd
     city: Málaga
     region: Andalucía
     postcode: 290XX
