@@ -22,8 +22,8 @@ social:
     icon_pack: fab
     link: www.linkedin.com/in/jpjimeneznavarro
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Joint Research Centre, JRC
+    url: https://joint-research-centre.ec.europa.eu/index_en
 education:
   courses:
     - course: PhD in Artificial Intelligence
