@@ -21,6 +21,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: www.linkedin.com/in/jpjimeneznavarro
+  - display:
+      header: false
+    link: https://www.goodreads.com/user/show/108080454-jp
+    icon_pack: fab
+    icon: goodreads
 organizations:
   - name: Joint Research Centre, JRC
     url: https://joint-research-centre.ec.europa.eu/index_en
