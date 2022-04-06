@@ -2,8 +2,7 @@
 title: Juan Pablo Jiménez
 role: "Energy analyst "
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: "My research interests include "
 interests:
   - Energy policy
   - Heating and Cooling
@@ -44,4 +43,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Juan Pablo is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Juan Pablo is a
