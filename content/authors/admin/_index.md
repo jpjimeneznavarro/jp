@@ -18,12 +18,9 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.nl/citations?user=8RHLWoYAAAAJ&hl=en
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: www.linkedin.com/in/jpjimeneznavarro
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
