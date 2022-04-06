@@ -30,7 +30,7 @@ organizations:
     url: https://joint-research-centre.ec.europa.eu/index_en
 education:
   courses:
-    - course: PhD in Energy Systems
+    - course: < icon name="download" pack="fas" > PhD in Energy Systems
       institution: University of Málaga
       year: 2019
     - course: MEng in Energy Conversion Systems and Technologies
