@@ -33,13 +33,13 @@ education:
   courses:
     - course: PhD in Energy Systems
       institution: University of Málaga
-      year: 2018
+      year: 2019
     - course: MEng inin Energy Conversion Systems and Technologies
       institution: Universitat Rovira i Virgili
       year: 2010
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Mechanical Engineering
+      institution: University of Málaga
+      year: 2009
 email: ""
 superuser: true
 highlight_name: true
