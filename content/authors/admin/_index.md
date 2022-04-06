@@ -1,6 +1,7 @@
 ---
-title: "Juan "
-role: Professor of Artificial Intelligence
+title: Juan Pablo Jiménez
+role: "Energy analyst "
+avatar_filename: small-460.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
