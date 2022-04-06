@@ -17,7 +17,7 @@ social:
     link: https://twitter.com/jpjimeneznav
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.nl/citations?user=8RHLWoYAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
