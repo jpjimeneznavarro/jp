@@ -34,9 +34,9 @@ education:
     - course: PhD in Energy Systems
       institution: University of Málaga
       year: 2019
-    - course: MEng inin Energy Conversion Systems and Technologies
+    - course: MEng in Energy Conversion Systems and Technologies
       institution: Universitat Rovira i Virgili
-      year: 2010
+      year: 2012
     - course: BSc in Mechanical Engineering
       institution: University of Málaga
       year: 2009
