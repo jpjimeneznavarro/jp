@@ -14,17 +14,16 @@ content:
       captcha: false
   autolink: true
   office_hours:
-    - Monday 10:00 to 13:00
-    - Wednesday 09:00 to 10:00
-  phone: 888 888 88 88
+    - Monday to Friday from 10:00 to 17:00
+  phone: +34 645 18 90 33
   appointment_url: https://calendly.com
   directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: "94305"
-    country: United States
+    street: to be determined
+    city: Málaga
+    region: Andalucía
+    postcode: 290XX
+    country: Spain
     country_code: US
   contact_links:
     - icon: twitter
@@ -38,7 +37,7 @@ content:
   coordinates:
     latitude: "37.4275"
     longitude: "-122.1697"
-  email: test@example.org
+  email: juanpablojimeneznvarro@gmail.com
 design:
   columns: "2"
 ---
